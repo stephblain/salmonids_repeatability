@@ -6,7 +6,7 @@ pkgs<-c("tidyverse","ggplot2","coxed","gridExtra","matrixcalc","forcats",
         "kSamples","ggpubr","metaDigitise","metafor","ape","rfishbase")
 
 lapply(pkgs,library,character.only=T); rm(pkgs)
-source("../salmonids/functions_phenotypes.R")
+source("../salmonids/functions_morphs_GEB.R")
 
 ###Colours
 col.cor<-"#8cb5a7"
