@@ -19,9 +19,9 @@ cols.cor<-c("#2a3632","#546d64","#709186","#a3c4b9")
 
 ###Read in data
 
-df<-read.csv("lakes.csv",stringsAsFactors=F)
-m<-read.csv("ecotypes_sum.csv",stringsAsFactors=F)
-morphs<-read.csv("ecotypes.csv",stringsAsFactors=F,fileEncoding="latin1")
+df<-read.csv("data/lakes.csv",stringsAsFactors=F)
+m<-read.csv("data/ecotypes_sum.csv",stringsAsFactors=F)
+morphs<-read.csv("data/ecotypes.csv",stringsAsFactors=F,fileEncoding="latin1")
 
 m$Genus<-sub("_.*","",m$Species)
 
