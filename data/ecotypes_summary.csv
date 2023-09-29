@@ -1,0 +1,344 @@
+Lake,Species,Morph_ID,Morph_zone,Morph_diet,Source,Evidence
+Aigneau,Salvelinus_alpinus,Aigneau_L,littoral/benthic,benthivore,234B,location of capture; stomach contents; verified with morphology
+Aigneau,Salvelinus_alpinus,Aigneau_P,profundal,piscivore,234B,location of capture; stomach contents; verified with morphology
+Ana,Salvelinus_alpinus,Ana_1,,,118A,growth curves
+Ana,Salvelinus_alpinus,Ana_2,,,118A,growth curves
+Apa,Salvelinus_alpinus,Apa_1,,,118A,growth curves
+Apa,Salvelinus_alpinus,Apa_2,,,118A,growth curves
+Arnar-Stora,Salvelinus_alpinus,Arnar-Stora_1,,,118A,growth curves
+Arnar-Stora,Salvelinus_alpinus,Arnar-Stora_2,,,118A,growth curves
+Asbjarnar,Salvelinus_alpinus,Asbjarnar_1,,,118A,growth curves
+Asbjarnar,Salvelinus_alpinus,Asbjarnar_2,,,118A,growth curves
+Athapapuskow,Coregonus_artedi,Athapapuskow_HGR,shallow,,373B,gill rakers and other morphology; location of capture
+Athapapuskow,Coregonus_artedi,Athapapuskow_LGR,generalist,,373B,gill rakers and other morphology; location of capture
+Awe,Salvelinus_alpinus,Awe_autumn,pelagic,planktivore,122A,morphology; growth curves; stable isotopes
+Awe,Salvelinus_alpinus,Awe_spring,littoral/benthic,benthivore,122A,morphology; growth curves; stable isotopes
+BaiedesOnzeIles,Salvelinus_fontinalis,BaiedesOnzeIles_L,littoral/benthic,,186A,stomach contents; morphology; location of capture
+BaiedesOnzeIles,Salvelinus_fontinalis,BaiedesOnzeIles_PL,pelagic,,186A,stomach contents; morphology; location of capture
+Barrow,Coregonus_artedi,Barrow_large,,benthivore,255A,gill raker and body size distributions; diet description within 255A
+Barrow,Coregonus_artedi,Barrow_small,,planktivore,255A,gill raker and body size distributions; diet description within 255A
+Biel,Coregonus_lavaretus,Biel_confusus,,,37C,gill rakers; morphology
+Biel,Coregonus_lavaretus,Biel_palaea,,,37C,gill rakers; morphology
+Bolshoe,Salvelinus_malma,Bolshoe_large,,piscivore,03C,stomach contents; morphology
+Bolshoe,Salvelinus_malma,Bolshoe_norm,,planktivore,03C,stomach contents; morphology
+Bolshoi-Namarakit,Salvelinus_alpinus,Bolshoi-Namarakit_D,,planktivore,264A,body size distributions; morphology; stomach contents
+Bolshoi-Namarakit,Salvelinus_alpinus,Bolshoi-Namarakit_S,,planktivore,264A,body size distributions; morphology; stomach contents
+Brienz,Coregonus_lavaretus,Brienz_albellus,generalist,,08C,spawning depth; morphology; depth of capture
+Brienz,Coregonus_lavaretus,Brienz_balchen1,littoral/benthic,,08C,spawning depth; morphology; depth of capture
+Brienz,Coregonus_lavaretus,Brienz_balchen2,generalist,,08C,spawning depth; morphology; depth of capture
+Brienz,Coregonus_lavaretus,Brienz_Felchen,generalist,,08C,spawning depth; morphology; depth of capture
+Cedar,Coregonus_artedi,Cedar_B,littoral/benthic,,04C,location of capture; morphology; gill rakers
+Cedar,Coregonus_artedi,Cedar_PL,pelagic,,04C,location of capture; morphology; gill rakers
+Chignik,Prosopium_coulterii,Chignik_DH,profundal,planktivore,117A,morphology; stable isotopes; location of capture; stomach contents
+Chignik,Prosopium_coulterii,Chignik_DL,profundal,benthivore,117A,morphology; stable isotopes; location of capture; stomach contents
+Chignik,Prosopium_coulterii,Chignik_SL,littoral/benthic,benthivore,117A,morphology; stable isotopes; location of capture; stomach contents
+Cliff,Coregonus_clupeaformis,Cliff_dwarf,pelagic,planktivore,286A,location of capture; morphology; gill rakers; stomach contents
+Cliff,Coregonus_clupeaformis,Cliff_norm,littoral/benthic,benthivore,286A,location of capture; morphology; gill rakers; stomach contents
+Como,Coregonus_clupeaformis,Como_dwarf,pelagic,,36A,morphology; growth curves; gill rakers; description in 36A
+Como,Coregonus_clupeaformis,Como_normal,littoral/benthic,,36A,morphology; growth curves; gill rakers; description in 36A
+Constance,Coregonus_lavaretus,Constance_Alpenrhein,,,126A,depth; gill rakers; stable isotopes
+Constance,Coregonus_lavaretus,Constance_arenicolus,,,126A,depth; gill rakers; stable isotopes
+Constance,Coregonus_lavaretus,Constance_macrophthalmus,,,126A,depth; gill rakers; stable isotopes
+Constance,Coregonus_lavaretus,Constance_wartmanni,pelagic,,126A,depth; gill rakers; stable isotopes
+Constance,Coregonus_lavaretus,Constance_Weissfelchen,,,126A,depth; gill rakers; stable isotopes
+Cormorant,Coregonus_artedi,Cormorant_dwarf,,,255A,gill raker and body size distributions
+Cormorant,Coregonus_artedi,Cormorant_norm,,,255A,gill raker and body size distributions
+Crescent,Coregonus_clupeaformis,Crescent_dwarf,,,285A,gill rakers; morphology
+Crescent,Coregonus_clupeaformis,Crescent_norm,,,285A,gill rakers; morphology
+Davatchan,Salvelinus_alpinus,Davatchan_D,,generalist invertivore,264A,body size distributions; morphology; stomach contents
+Davatchan,Salvelinus_alpinus,Davatchan_L,,piscivore,264A,body size distributions; morphology; stomach contents
+Davatchan,Salvelinus_alpinus,Davatchan_S,,planktivore,264A,body size distributions; morphology; stomach contents
+Dezadeash,Coregonus_clupeaformis,Dezadeash_HGR,pelagic,planktivore,79C,Gill rakers; description in 79C
+Dezadeash,Coregonus_clupeaformis,Dezadeash_LGR,littoral/benthic,benthivore,79C,Gill rakers; description in 79C
+Dughaill,Salvelinus_alpinus,Dughaill_P,profundal,benthivore,47A,morphology; gill rakers; location of capture; stomach contents
+Dughaill,Salvelinus_alpinus,Dughaill_PL,pelagic,planktivore,47A,morphology; gill rakers; location of capture; stomach contents
+East,Coregonus_clupeaformis,East_dwarf,pelagic,,286A,location of capture; morphology; gill rakers; stomach contents
+East,Coregonus_clupeaformis,East_norm,littoral/benthic,,286A,location of capture; morphology; gill rakers; stomach contents
+Ellasjoen,Salvelinus_alpinus,Ellasjoen_dwarf,profundal,benthivore,53A,location; morphology; stable isotopes
+Ellasjoen,Salvelinus_alpinus,Ellasjoen_L,littoral/benthic,planktivore,53A,location; morphology; stable isotopes
+Ellasjoen,Salvelinus_alpinus,Ellasjoen_PL,pelagic,benthivore,53A,location; morphology; stable isotopes
+Ericht,Salvelinus_alpinus,Ericht_PI,,piscivore,291A,morphology; stomach contents
+Ericht,Salvelinus_alpinus,Ericht_PL,pelagic,planktivore,291A,morphology; stomach contents
+Femund,Coregonus_lavaretus,Femund_bay,littoral/benthic,,331B,morphology; location of capture; gill rakers
+Femund,Coregonus_lavaretus,Femund_deep,generalist,,331B,morphology; location of capture; gill rakers
+Femund,Coregonus_lavaretus,Femund_river,littoral/benthic,,331B,morphology; location of capture; gill rakers
+Femund,Coregonus_lavaretus,Femund_shallow,generalist,,331B,morphology; location of capture; gill rakers
+Fjellfros,Salvelinus_alpinus,Fjellfros_B,littoral/benthic,benthivore,196B,stomach contents; isotopes; morphology; growth curves
+Fjellfros,Salvelinus_alpinus,Fjellfros_G,littoral/benthic,benthivore,196B,stomach contents; isotopes; morphology; growth curves
+Fjellfros,Salvelinus_alpinus,Fjellfros_PB,profundal,benthivore,276A; 181A,stomach contents; location of capture; morphology
+Fjellfros,Salvelinus_alpinus,Fjellfros_Z,pelagic,planktivore,196B,stomach contents; isotopes; morphology; growth curves
+Fljotsbotn,Salvelinus_alpinus,Fljotsbotn_1,,,118A,growth curves
+Fljotsbotn,Salvelinus_alpinus,Fljotsbotn_2,,,118A,growth curves
+Frostastada,Salvelinus_alpinus,Frostastada_1,,,118A,growth curves
+Frostastada,Salvelinus_alpinus,Frostastada_2,,,118A,growth curves
+Frostastada,Salvelinus_alpinus,Frostastada_3,,,118A,growth curves
+Galtabol,Salvelinus_alpinus,Galtabol_B,,benthivore,118A,growth curves
+Galtabol,Salvelinus_alpinus,Galtabol_PI,,piscivore,118A,growth curves
+Gander,Salvelinus_alpinus,Gander_darklarge,shallow,,178B,location of capture; isotopes; morphology; stomach contents
+Gander,Salvelinus_alpinus,Gander_darksmall,littoral/benthic,,89A;220A,location of capture; isotopes; morphology; stomach contents
+Gander,Salvelinus_alpinus,Gander_paledeep,profundal,,178B,location of capture; isotopes; morphology
+Gander,Salvelinus_alpinus,Gander_paleshallow,profundal,,178B,location of capture; isotopes; morphology
+Glammastada,Salvelinus_alpinus,Glammastada_1,,,118A,growth curves; morphology
+Glammastada,Salvelinus_alpinus,Glammastada_2,,,118A,growth curves; morphology
+GrandeReservoir,Coregonus_artedi,GrandeReservoir_large,,,255A,gill raker and body size distributions
+GrandeReservoir,Coregonus_artedi,GrandeReservoir_norm,,,255A,gill raker and body size distributions
+GreatBear,Salvelinus_namaycush,GreatBear_M1,generalist,,72A,morphology; stable isotopes; location of capture
+GreatBear,Salvelinus_namaycush,GreatBear_M2,generalist,,72A,morphology; stable isotopes; location of capture
+GreatBear,Salvelinus_namaycush,GreatBear_M3,generalist,,72A,morphology; stable isotopes; location of capture
+GreatBear,Salvelinus_namaycush,GreatBear_M4,pelagic,,72A,morphology; stable isotopes; location of capture
+GreatSlaveC,Coregonus_artedi,GreatSlaveC_bigeye,profundal,,83A,morphology; gill rakers; location of capture
+GreatSlaveC,Coregonus_artedi,GreatSlaveC_lacustrine,,,83A,morphology; gill rakers; location of capture
+GreatSlaveC,Coregonus_artedi,GreatSlaveC_zenithicus,,,83A,morphology; gill rakers; location of capture
+GreatSlaveS,Salvelinus_namaycush,GreatSlaveS_lean,generalist,piscivore,170A,morphology; stable isotopes; location of capture; stomach contents
+GreatSlaveS,Salvelinus_namaycush,GreatSlaveS_siscowet,generalist,piscivore,170A,morphology; stable isotopes; location of capture; stomach contents
+Haukadals,Salvelinus_alpinus,Haukadals_1,,,118A,growth curves; morphology
+Haukadals,Salvelinus_alpinus,Haukadals_2,,,118A,growth curves; morphology
+Hazen,Salvelinus_alpinus,Hazen_large,pelagic,,393B,morphology; isotopes; stomach contents
+Hazen,Salvelinus_alpinus,Hazen_small,littoral/benthic,,393B,morphology; isotopes; stomach contents
+Heidar,Salvelinus_alpinus,Heidar_1,,,118A,growth curves
+Heidar,Salvelinus_alpinus,Heidar_2,,,118A,growth curves
+Hest,Salvelinus_alpinus,Hest_1,,,118A,growth curves
+Hest,Salvelinus_alpinus,Hest_2,,,118A,growth curves
+Hogan,Coregonus_artedi,Hogan_B,littoral/benthic,,04C,location of capture; morphology; gill rakers
+Hogan,Coregonus_artedi,Hogan_PL,pelagic,,04C,location of capture; morphology; gill rakers
+Hogna,Salvelinus_alpinus,Hogna_1,,,118A,growth curves
+Hogna,Salvelinus_alpinus,Hogna_2,,,118A,growth curves
+Hogna,Salvelinus_alpinus,Hogna_3,,,118A,growth curves
+Hopid,Salvelinus_alpinus,Hopid_1,,,118A,growth curves
+Hopid,Salvelinus_alpinus,Hopid_2,,,118A,growth curves
+Iddja,Coregonus_lavaretus,Iddja_DR,pelagic,planktivore,202A,gill rakers; stomach contents; location of capture
+Iddja,Coregonus_lavaretus,Iddja_LSR,littoral/benthic,benthivore,28A,gill rakers; description in 28A
+Iddja,Coregonus_lavaretus,Iddja_SSR,profundal,benthivore,28A,gill rakers; description in 28A
+Imandra,Coregonus_lavaretus,Imandra_MR,pelagic,,06C,morphology; location of capture; stomach contents
+Imandra,Coregonus_lavaretus,Imandra_SR,generalist,,06C,morphology; location of capture; stomach contents
+Inari,Coregonus_lavaretus,Inari_DR,pelagic,planktivore,14B,stomach contents; isotopes; gill rakers
+Inari,Coregonus_lavaretus,Inari_LDR,generalist,generalist invertivore,14B,stomach contents; isotopes; gill rakers
+Inari,Coregonus_lavaretus,Inari_LSR,littoral/benthic,benthivore,14B,stomach contents; isotopes; gill rakers
+Inari,Coregonus_lavaretus,Inari_SSR,profundal,benthivore,14B,stomach contents; isotopes; gill rakers
+Indian,Coregonus_clupeaformis,Indian_dwarf,pelagic,,108B,gill rakers; morphology; description in 108B
+Indian,Coregonus_clupeaformis,Indian_norm,littoral/benthic,,108B,gill rakers; morphology; description in 108B
+Iqalugaajuruluit,Salvelinus_alpinus,Iqalugaajuruluit_H,,piscivore,162A,growth curves; stable isotopes; stomach contents
+Iqalugaajuruluit,Salvelinus_alpinus,Iqalugaajuruluit_L,,generalist invertivore,162A,growth curves; stable isotopes; stomach contents
+Isteren,Coregonus_lavaretus,Isteren_dwarf,,,331B,growth curves; morphology
+Isteren,Coregonus_lavaretus,Isteren_normal,,,331B,growth curves; morphology
+Kalarskii-Davatchan,Salvelinus_alpinus,Kalarskii-Davatchan_D,,planktivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Kalarskii-Davatchan,Salvelinus_alpinus,Kalarskii-Davatchan_L,,,49C,growth curves/distributions; diet ID from references in 49C table 1
+Kalarskii-Davatchan,Salvelinus_alpinus,Kalarskii-Davatchan_S1,,piscivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Kalarskii-Davatchan,Salvelinus_alpinus,Kalarskii-Davatchan_S2,,piscivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Kamkanda,Salvelinus_alpinus,Kamkanda_dwarf,,benthivore,31C,morphology; stomach contents
+Kamkanda,Salvelinus_alpinus,Kamkanda_large,,piscivore,31C,morphology; stomach contents
+Kamkanda,Salvelinus_alpinus,Kamkanda_small,,planktivore,31C,morphology; stomach contents
+Kiryalta-3,Salvelinus_alpinus,Kiryalta-3_L,,piscivore,264A,body size distributions; morphology; stomach contents
+Kiryalta-3,Salvelinus_alpinus,Kiryalta-3_S,pelagic,planktivore,264A,body size distributions; morphology; stomach contents
+Kiryalta-4,Salvelinus_alpinus,Kiryalta-4_L,,piscivore,264A,body size distributions; morphology; stomach contents
+Kiryalta-4,Salvelinus_alpinus,Kiryalta-4_S,pelagic,planktivore,264A,body size distributions; morphology; stomach contents
+Koitere,Coregonus_lavaretus,Koitere_IR,,,19C,gill rakers
+Koitere,Coregonus_lavaretus,Koitere_LDR,,,19C,gill rakers
+Koitere,Coregonus_lavaretus,Koitere_SR,,,19C,gill rakers
+Kotlu,Salvelinus_alpinus,Kotlu_1,,,118A,growth curves
+Kotlu,Salvelinus_alpinus,Kotlu_2,,,118A,growth curves
+Krestaki,Salvelinus_alpinus,Krestaki-1_D,,benthivore,264A,body size distributions; morphology; stomach contents
+Krestaki,Salvelinus_alpinus,Krestaki-1_L,,piscivore,264A,body size distributions; morphology; stomach contents
+Krestaki,Salvelinus_alpinus,Krestaki-1_S1,,generalist invertivore,264A,body size distributions; morphology; stomach contents
+Krestaki,Salvelinus_alpinus,Krestaki-1_S2,,generalist invertivore,264A,body size distributions; morphology; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_B,profundal,benthivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_L,pelagic,piscivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_N1,littoral/benthic,benthivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_N2,littoral/benthic,benthivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_N3,littoral/benthic,benthivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_S,profundal,omnivore,27A,morphology; location of capture; stomach contents
+Kronotskoe,Salvelinus_malma,Kronotskoe_W,pelagic,omnivore,27A,morphology; location of capture; stomach contents
+Kudushkit,Salvelinus_alpinus,Kudushkit_D,,generalist invertivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Kudushkit,Salvelinus_alpinus,Kudushkit_L,,omnivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Ladnet,Coregonus_lavaretus,Ladnet_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Ladnet,Coregonus_lavaretus,Ladnet_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Lagarfljot,Salvelinus_alpinus,Lagarfljot_1,,,118A,growth curves
+Lagarfljot,Salvelinus_alpinus,Lagarfljot_2,,,118A,growth curves
+Lahpo,Coregonus_lavaretus,Lahpo_DR,pelagic,planktivore,237A,gill rakers; stomach contents; location of capture
+Lahpo,Coregonus_lavaretus,Lahpo_LSR-l,littoral/benthic,benthivore,108A,gill rakers; diet
+Lahpo,Coregonus_lavaretus,Lahpo_LSR-p,profundal,benthivore,108A,gill rakers; diet
+Langa1,Salvelinus_alpinus,Langa1_1,,,118A,growth curves
+Langa1,Salvelinus_alpinus,Langa1_2,,,118A,growth curves
+Langa2,Salvelinus_alpinus,Langa2_1,,,118A,growth curves
+Langa2,Salvelinus_alpinus,Langa2_2,,,118A,growth curves
+Langfjord,Coregonus_lavaretus,Langfjord_DR,pelagic,planktivore,96A,gill rakers; stomach contents; location of capture
+Langfjord,Coregonus_lavaretus,Langfjord_LSR,littoral/benthic,benthivore,96A,gill rakers; stomach contents; location of capture
+Langfjord,Coregonus_lavaretus,Langfjord_SSR,profundal,benthivore,96A,gill rakers; stomach contents; location of capture
+Ledoux,Salvelinus_fontinalis,Ledoux_L,littoral/benthic,,300A,morphology; location of capture
+Ledoux,Salvelinus_fontinalis,Ledoux_PL,pelagic,,300A,morphology; location of capture
+Limingen,Salvelinus_alpinus,Limingen_dwarf,profundal,,3A,morphology; location of capture; stomach contents
+Limingen,Salvelinus_alpinus,Limingen_grey,profundal,piscivore,3A,morphology; location of capture; stomach contents
+Limingen,Salvelinus_alpinus,Limingen_normal,generalist,planktivore,3A,morphology; location of capture; stomach contents
+LittleTeslin,Coregonus_clupeaformis,LittleTeslin_HGR,pelagic,planktivore,79C,Gill rakers; description in 79C
+LittleTeslin,Coregonus_clupeaformis,LittleTeslin_LGR,littoral/benthic,benthivore,79C,Gill rakers; description in 79C
+LowerTazimina,Salvelinus_alpinus,LowerTazimina_large,,,63A,gill raker and body size distributions
+LowerTazimina,Salvelinus_alpinus,LowerTazimina_medium,,,63A,gill raker and body size distributions
+LowerTazimina,Salvelinus_alpinus,LowerTazimina_small,,planktivore,63A,gill raker and body size distributions
+Lucerne,Coregonus_lavaretus,Lucerne_Alpnach,,,17C,morphology; gill rakers; location of capture
+Lucerne,Coregonus_lavaretus,Lucerne_Bodenbalchen,,,17C,morphology; gill rakers; location of capture
+Lucerne,Coregonus_lavaretus,Lucerne_intb,littoral/benthic,,17C,morphology; gill rakers; location of capture
+Lucerne,Coregonus_lavaretus,Lucerne_intp,pelagic,,17C,morphology; gill rakers; location of capture
+Lucerne,Coregonus_lavaretus,Lucerne_nobilis,,,17C,morphology; gill rakers; location of capture
+Lucerne,Coregonus_lavaretus,Lucerne_zugensis,,,17C,morphology; gill rakers; location of capture
+Maggiore,Coregonus_lavaretus,Maggiore_bondella,,,37C,gill rakers; morphology
+Maggiore,Coregonus_lavaretus,Maggiore_lavarello,,,37C,gill rakers; morphology
+Maree,Salvelinus_alpinus,Maree_C,,generalist invertivore,176A,body size; stomach contents
+Maree,Salvelinus_alpinus,Maree_D,,planktivore,176A,body size; stomach contents
+Memesagamesing,Coregonus_artedi,Memesagamesing_B,littoral/benthic,,04C,location of capture; morphology; gill rakers
+Memesagamesing,Coregonus_artedi,Memesagamesing_PL,pelagic,,04C,location of capture; morphology; gill rakers
+MistassiniF,Salvelinus_fontinalis,MistassiniF_che,,,34C,growth curves
+MistassiniF,Salvelinus_fontinalis,MistassiniF_pep,,,34C,growth curves
+MistassiniF,Salvelinus_fontinalis,MistassiniF_rup,,,34C,growth curves
+MistassiniN,Salvelinus_namaycush,MistassiniN_deep,profundal,,198A,morphology; location of capture; stomach contents
+MistassiniN,Salvelinus_namaycush,MistassiniN_shallow,shallow,,198A,morphology; location of capture; stomach contents
+Muddus,Coregonus_lavaretus,Muddus_DR,pelagic,planktivore,14B,stomach contents; isotopes; gill rakers
+Muddus,Coregonus_lavaretus,Muddus_LDR,pelagic,generalist invertivore,14B,stomach contents; isotopes; gill rakers
+Muddus,Coregonus_lavaretus,Muddus_LSR,littoral/benthic,benthivore,14B,stomach contents; isotopes; gill rakers
+Muddus,Coregonus_lavaretus,Muddus_SSR,profundal,benthivore,14B,stomach contents; isotopes; gill rakers
+Neuchatel,Coregonus_lavaretus,Neuchatel_candidus,,,126A,depth; gill rakers; stable isotopes
+Neuchatel,Coregonus_lavaretus,Neuchatel_palaea,,,126A,depth; gill rakers; stable isotopes
+Nipigon,Coregonus_artedi,Nipigon_artedi,shallow,planktivore,284A,morphology; location of capture; stomach contents
+Nipigon,Coregonus_artedi,Nipigon_hoyi,profundal,,284A,morphology; location of capture; stomach contents
+Nipigon,Coregonus_artedi,Nipigon_nigripinnis,,,284A,morphology; location of capture; stomach contents
+Nipigon,Coregonus_artedi,Nipigon_zenithicus,,,284A,morphology; location of capture; stomach contents
+Njalla,Coregonus_lavaretus,Njalla_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Njalla,Coregonus_lavaretus,Njalla_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Normu1ipSaqqaataTasia,Salvelinus_alpinus,Normu1ipSaqqaataTasia_LB,littoral/benthic,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+Normu1ipSaqqaataTasia,Salvelinus_alpinus,Normu1ipSaqqaataTasia_PI,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+Paadar,Coregonus_lavaretus,Paadar_DR,pelagic,planktivore,14B,stomach contents; isotopes; gill rakers
+Paadar,Coregonus_lavaretus,Paadar_LDR,pelagic,generalist invertivore,14B,stomach contents; isotopes; gill rakers
+Paadar,Coregonus_lavaretus,Paadar_LSR ,littoral/benthic,benthivore,14B,stomach contents; isotopes; gill rakers
+Paadar,Coregonus_lavaretus,Paadar_SSR ,profundal,benthivore,14B,stomach contents; isotopes; gill rakers
+Padorinskoe,Salvelinus_alpinus,Padorinskoe_L,,piscivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Padorinskoe,Salvelinus_alpinus,Padorinskoe_S,,benthivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Pulmanki,Coregonus_lavaretus,Pulmanki_DR,pelagic,planktivore,28A,gill rakers; description in 28A
+Pulmanki,Coregonus_lavaretus,Pulmanki_LSR,littoral/benthic,benthivore,28A,gill rakers; description in 28A
+Pulmanki,Coregonus_lavaretus,Pulmanki_SSR,profundal,benthivore,28A,gill rakers; description in 28A
+Radiant,Coregonus_artedi,Radiant_B,littoral/benthic,,04C,morphology; gill rakers; location of capture
+Radiant,Coregonus_artedi,Radiant_PL,pelagic,,04C,morphology; gill rakers; location of capture
+Rannoch,Salvelinus_alpinus,Rannoch_B,littoral/benthic,benthivore,296A,location of capture; stomach contents; morphology
+Rannoch,Salvelinus_alpinus,Rannoch_PI,littoral/benthic,piscivore,296A,location of capture; stomach contents; morphology
+Rannoch,Salvelinus_alpinus,Rannoch_PL,pelagic,planktivore,296A,location of capture; stomach contents; morphology
+Rush,Salvelinus_namaycush,Rush_huronicus,profundal,,42A,location of capture; stomach contents; morphology
+Rush,Salvelinus_namaycush,Rush_lean,shallow,,42A,location of capture; stomach contents; morphology
+Ruskebukt,Coregonus_lavaretus,Ruskebukt_DR,pelagic,,202A,morphology; gill rakers; location of capture; stomach contents
+Ruskebukt,Coregonus_lavaretus,Ruskebukt_LSR,littoral/benthic,,202A,morphology; gill rakers; location of capture; stomach contents
+Saenauta,Salvelinus_alpinus,Saenauta_1,,,118A,growth curves
+Saenauta,Salvelinus_alpinus,Saenauta_2,,,118A,growth curves
+Sand,Salvelinus_alpinus,Sand_1,,,118A,growth curves
+Sand,Salvelinus_alpinus,Sand_2,,,118A,growth curves
+SaqqaataTasia,Salvelinus_alpinus,SaqqaataTasia_LB,littoral/benthic,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+SaqqaataTasia,Salvelinus_alpinus,SaqqaataTasia_PB,profundal,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+SaqqaataTasia,Salvelinus_alpinus,SaqqaataTasia_PI1,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+SaqqaataTasia,Salvelinus_alpinus,SaqqaataTasia_PI2,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+SaqqaataTasia,Salvelinus_alpinus,SaqqaataTasia_PL,pelagic,planktivore,01C,"mix of ecological, morphological, behavioural traits"
+Severonichatskoe,Salvelinus_alpinus,Severonichatskoe_D,,planktivore,264A,body size distributions; morphology; stomach contents
+Severonichatskoe,Salvelinus_alpinus,Severonichatskoe_L,,piscivore,264A,body size distributions; morphology; stomach contents
+Sirdals,Salvelinus_alpinus,Sirdals_dwarf,littoral/benthic,,318A,morphology; location of capture
+Sirdals,Salvelinus_alpinus,Sirdals_norm,profundal,,318A,morphology; location of capture
+Sko,Salvelinus_alpinus,Sko_LO,littoral/benthic,omnivore,5A,morphology; location of capture; stomach contents
+Sko,Salvelinus_alpinus,Sko_PZ,profundal,planktivore,5A,morphology; location of capture; stomach contents
+Skogsfjord,Salvelinus_alpinus,Skogsfjord_LO,littoral/benthic,omnivore,68A,morphology; location of capture; stomach contents
+Skogsfjord,Salvelinus_alpinus,Skogsfjord_PB,profundal,benthivore,68A,morphology; location of capture; stomach contents
+Skogsfjord,Salvelinus_alpinus,Skogsfjord_PP,profundal,piscivore,68A,morphology; location of capture; stomach contents
+Skorradals,Salvelinus_alpinus,Skorradals_1,,,118A,growth curves
+Skorradals,Salvelinus_alpinus,Skorradals_2,,,118A,growth curves
+Skridu,Salvelinus_alpinus,Skridu_1,,,118A,growth curves
+Skridu,Salvelinus_alpinus,Skridu_2,,,118A,growth curves
+Skrukkebukta,Coregonus_lavaretus,Skrukkebukta_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Skrukkebukta,Coregonus_lavaretus,Skrukkebukta_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Skrukkebukta,Coregonus_lavaretus,Skrukkebukta_SSR,profundal,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Squanga,Coregonus_clupeaformis,Squanga_HGR,pelagic,planktivore,79C,Gill rakers; description in 79C
+Squanga,Coregonus_clupeaformis,Squanga_LGR,littoral/benthic,benthivore,79C,Gill rakers; description in 79C
+Stack,Salvelinus_alpinus,Stack_A,,generalist invertivore,176A,body size; stomach contents
+Stack,Salvelinus_alpinus,Stack_B,,planktivore,176A,body size; stomach contents
+Stechlin,Coregonus_albula,Stechlin_albula,pelagic,planktivore,166A,morphology; location
+Stechlin,Coregonus_albula,Stechlin_fontanae,pelagic,planktivore,166A,morphology; location
+Stora-Vidar,Salvelinus_alpinus,Stora-Vidar_B,littoral/benthic,benthivore,75C,morphology
+Stora-Vidar,Salvelinus_alpinus,Stora-Vidar_L,pelagic,,75C,morphology
+StoreRennen,Salvelinus_alpinus,StoreRennen_EB,littoral/benthic,,82C,morphology; location of capture; stomach contents
+StoreRennen,Salvelinus_alpinus,StoreRennen_P,pelagic,,82C,morphology; location of capture; stomach contents
+Stuora,Coregonus_lavaretus,Stuora_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Stuora,Coregonus_lavaretus,Stuora_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Stuora,Coregonus_lavaretus,Stuora_SSR,profundal,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Suopat,Coregonus_lavaretus,Suopat_DR,pelagic,planktivore,28A,gill rakers; description in 28A
+Suopat,Coregonus_lavaretus,Suopat_LSR,littoral/benthic,benthivore,28A,gill rakers; description in 28A
+Suopat,Coregonus_lavaretus,Suopat_SSR,profundal,benthivore,28A,gill rakers; description in 28A
+Superior,Salvelinus_namaycush,Superior_humper,pelagic,omnivore,16C,morphology; location of capture; description in 16C
+Superior,Salvelinus_namaycush,Superior_lean,shallow,piscivore,16C,morphology; location of capture; description in 16C
+Superior,Salvelinus_namaycush,Superior_redfin,,,16C,morphology; location of capture; description in 16C
+Superior,Salvelinus_namaycush,Superior_siscowet,profundal,piscivore,16C,morphology; location of capture; description in 16C
+Svetlinskoe,Salvelinus_alpinus,Svetlinskoe_D,,planktivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Svetlinskoe,Salvelinus_alpinus,Svetlinskoe_S,,planktivore,49C,growth curves/distributions; diet ID from references in 49C table 1
+Svina,Salvelinus_alpinus,Svina_B,,benthivore,75C,morphology
+Svina,Salvelinus_alpinus,Svina_PI,,piscivore,75C,morphology
+Svina,Salvelinus_alpinus,Svina_PL,,planktivore,75C,morphology
+Tarn,Salvelinus_alpinus,Tarn_LO,littoral/benthic,omnivore,5A,morphology; location of capture; stomach contents
+Tarn,Salvelinus_alpinus,Tarn_PB,profundal,benthivore,5A,morphology; location of capture; stomach contents
+Tarn,Salvelinus_alpinus,Tarn_PP,profundal,piscivore,5A,morphology; location of capture; stomach contents
+Tasersuaq,Salvelinus_alpinus,Tasersuaq_LB,littoral/benthic,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+Tasersuaq,Salvelinus_alpinus,Tasersuaq_PB,profundal,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+Tasersuaq,Salvelinus_alpinus,Tasersuaq_PI1,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+Tasersuaq,Salvelinus_alpinus,Tasersuaq_PI2,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+Tasersuaq,Salvelinus_alpinus,Tasersuaq_PL,pelagic,planktivore,01C,"mix of ecological, morphological, behavioural traits"
+Tay,Salvelinus_alpinus,Tay_large,pelagic,planktivore,122A,morphology; growth curves; stable isotopes
+Tay,Salvelinus_alpinus,Tay_small,littoral/benthic,benthivore,122A,morphology; growth curves; stable isotopes
+Temiscouata,Coregonus_clupeaformis,Temiscouata_dwarf,pelagic,,108B,gill rakers; morphology; description in 108B
+Temiscouata,Coregonus_clupeaformis,Temiscouata_norm,littoral/benthic,,108B,gill rakers; morphology; description in 108B
+Thingvalla,Salvelinus_alpinus,Thingvalla_LB,littoral/benthic,benthivore,331A,morphology; location of capture; stomach contents
+Thingvalla,Salvelinus_alpinus,Thingvalla_PI,,piscivore,331A,morphology; location of capture; stomach contents
+Thingvalla,Salvelinus_alpinus,Thingvalla_PL,pelagic,planktivore,331A,morphology; location of capture; stomach contents
+Thingvalla,Salvelinus_alpinus,Thingvalla_SB,littoral/benthic,benthivore,331A,morphology; location of capture; stomach contents
+Thrihyrnings,Salvelinus_alpinus,Thrihyrnings_1,,,118A,growth curves
+Thrihyrnings,Salvelinus_alpinus,Thrihyrnings_2,,,118A,growth curves
+Thun,Coregonus_lavaretus,Thun_abellus,generalist,,08C,spawning depth; morphology; depth of capture
+Thun,Coregonus_lavaretus,Thun_Albock,shallow,,08C,spawning depth; morphology; depth of capture
+Thun,Coregonus_lavaretus,Thun_alpinus,profundal,,08C,spawning depth; morphology; depth of capture
+Thun,Coregonus_lavaretus,Thun_Balchen1,shallow,,08C,spawning depth; morphology; depth of capture
+Thun,Coregonus_lavaretus,Thun_Balchen2,generalist,,08C,spawning depth; morphology; depth of capture
+Thun,Coregonus_lavaretus,Thun_fatioi,,,37C,gill rakers; morphology
+Thun,Coregonus_lavaretus,Thun_Felchen,generalist,,08C,spawning depth; morphology; depth of capture
+Thuridar,Salvelinus_alpinus,Thuridar_1,,,118A,growth curves
+Thuridar,Salvelinus_alpinus,Thuridar_2,,,118A,growth curves
+Timerliit2,Salvelinus_alpinus,Timerliit2_G,,omnivore,01C,"mix of ecological, morphological, behavioural traits"
+Timerliit2,Salvelinus_alpinus,Timerliit2_LB,littoral/benthic,benthivore,01C,"mix of ecological, morphological, behavioural traits"
+Timerliit2,Salvelinus_alpinus,Timerliit2_PI,,piscivore,01C,"mix of ecological, morphological, behavioural traits"
+Tinnsjoen,Salvelinus_alpinus,Tinnsjoen_abyssal,profundal,,01D,morphology; location of capture; stomach contents
+Tinnsjoen,Salvelinus_alpinus,Tinnsjoen_dwarf,profundal,,01D,morphology; location of capture; stomach contents
+Tinnsjoen,Salvelinus_alpinus,Tinnsjoen_PI,profundal,piscivore,01D,morphology; location of capture; stomach contents
+Tinnsjoen,Salvelinus_alpinus,Tinnsjoen_PL,generalist,planktivore,01D,morphology; location of capture; stomach contents
+Tjaerebukta,Coregonus_lavaretus,Tjaerebukta_DR,pelagic,planktivore,96A,gill rakers; stomach contents; location of capture
+Tjaerebukta,Coregonus_lavaretus,Tjaerebukta_LSR,littoral/benthic,benthivore,96A,gill rakers; stomach contents; location of capture
+Tjaerebukta,Coregonus_lavaretus,Tjaerebukta_SSR,profundal,benthivore,96A,gill rakers; stomach contents; location of capture
+Tokko,Salvelinus_alpinus,Tokko_D,,benthivore,49C,body size distributions; morphology; stomach contents; table in 49C
+Tokko,Salvelinus_alpinus,Tokko_L,,piscivore,49C,body size distributions; morphology; stomach contents; table in 49C
+Tokko,Salvelinus_alpinus,Tokko_S,,benthivore,49C,body size distributions; morphology; stomach contents; table in 49C
+Topolovoe,Salvelinus_malma,Topolovoe_large,,piscivore,03C,stomach contents; morphology
+Topolovoe,Salvelinus_malma,Topolovoe_norm,,generalist invertivore,03C,stomach contents; morphology
+Ulfljot,Salvelinus_alpinus,Ulfljot_1,,,118A,growth curves
+Ulfljot,Salvelinus_alpinus,Ulfljot_2,,,118A,growth curves
+Ulfs,Salvelinus_alpinus,Ulfs_1,,,118A,growth curves
+Ulfs,Salvelinus_alpinus,Ulfs_2,,,118A,growth curves
+Ulfs,Salvelinus_alpinus,Ulfs_3,,,118A,growth curves
+V-Fridmundar,Salvelinus_alpinus,V-Fridmundar_1,,,118A,growth curves
+V-Fridmundar,Salvelinus_alpinus,V-Fridmundar_2,,,118A,growth curves
+Vaggatem,Coregonus_lavaretus,Vaggatem_DR ,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vaggatem,Coregonus_lavaretus,Vaggatem_SR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vangsvatnet,Salvelinus_alpinus,Vangsvatnet_dwarf,profundal,,96C,morphology; location of capture
+Vangsvatnet,Salvelinus_alpinus,Vangsvatnet_norm,pelagic,,96C,morphology; location of capture
+Vatnshlidar,Salvelinus_alpinus,Vatnshlidar_brown,littoral/benthic,,18A,morphology; stable isotopes; location of capture
+Vatnshlidar,Salvelinus_alpinus,Vatnshlidar_silver,littoral/benthic,,18A,morphology; stable isotopes; location of capture
+Vuoddas,Coregonus_lavaretus,Vuoddas_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vuoddas,Coregonus_lavaretus,Vuoddas_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vuoddas,Coregonus_lavaretus,Vuoddas_SSR,profundal,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vuolgamas,Coregonus_lavaretus,Vuolgamas_DR,pelagic,planktivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vuolgamas,Coregonus_lavaretus,Vuolgamas_LSR,littoral/benthic,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Vuolgamas,Coregonus_lavaretus,Vuolgamas_SSR,profundal,benthivore,202A,morphology; gill rakers; location of capture; stomach contents
+Walen,Coregonus_lavaretus,Walen_duplex,,,126A,depth; gill rakers; stable isotopes
+Walen,Coregonus_lavaretus,Walen_heglingus,,,126A,depth; gill rakers; stable isotopes
+Webster,Coregonus_clupeaformis,Webster_dwarf,pelagic,,108B,gill rakers; morphology; description in 108B
+Webster,Coregonus_clupeaformis,Webster_norm,littoral/benthic,,108B,gill rakers; morphology; description in 108B
+Y-Deildar,Salvelinus_alpinus,Y-Deildar_1,,,118A,growth curves
+Y-Deildar,Salvelinus_alpinus,Y-Deildar_2,,,118A,growth curves
+Zurich,Coregonus_lavaretus,Zurich_duplex,,,126A,depth; gill rakers; stable isotopes
+Zurich,Coregonus_lavaretus,Zurich_heglingus,,,126A,depth; gill rakers; stable isotopes
