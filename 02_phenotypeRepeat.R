@@ -1,4 +1,6 @@
-setwd("C:/Users/Steph/OneDrive - Texas A&M University/Salmonids/writing/morphs/dryad_upload/")
+###Run analyses evaluating repeatability of ecotype assemblages by phenotype distributions
+##assemblage-wide phenotype for phenotype matching and estimate of similarity of differences between ecotypes
+##Includes both analyses and figures 4 and 5
 
 ###Read in packages
 pkgs<-c("tidyverse","coxed","gridExtra","matrixcalc","forcats",
@@ -6,7 +8,7 @@ pkgs<-c("tidyverse","coxed","gridExtra","matrixcalc","forcats",
         "kSamples","ggpubr","metaDigitise","metafor","ape","rfishbase")
 
 lapply(pkgs,library,character.only=T); rm(pkgs)
-source("C:/Users/Steph/OneDrive - Texas A&M University/Salmonids/salmonids/functions_morphs_GEB.R")
+source("00_functions_morphs_GEB.R")
 
 ###Colours
 col.cor<-"#8cb5a7"
